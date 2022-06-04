@@ -1,5 +1,3 @@
-<!-- [![Run on Repl.it](https://repl.it/badge/github/MSBivens/learn-web3-dao-first-dapp)](https://repl.it/github/MSBivens/learn-web3-dao-first-dapp) -->
-
 # First dApp with Learn Web3 DAO
 
 Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Freshman Tack.
@@ -10,7 +8,7 @@ Tutorial found here [LearnWeb3 DAO - Build an NFT Collection in 10 lines of code
 
 Learn Web3 DAOs repo for this project is [here](https://github.com/LearnWeb3DAO/NFT-Tutorial)
 
-<!-- What is this? -->
+This project creates a simple NFT with no image on the Rinkeby network.
 
 ## Overview Info
 
@@ -20,9 +18,9 @@ Network: Rinkeby
 
 Languages: Solidity, JavaScript
 
-<!-- Deployed to Rinkeby at:  -->
+Deployed to Rinkeby at: 0xa2D672e37B4438DeBF3E36A03BC5c34a6DA70F2d
 
-<!-- Rinkeby Contract Link on Etherscan:  -->
+Rinkeby Contract Link on Etherscan: https://rinkeby.etherscan.io/address/0xa2D672e37B4438DeBF3E36A03BC5c34a6DA70F2d
 
 ## This tutorial covers:
 
