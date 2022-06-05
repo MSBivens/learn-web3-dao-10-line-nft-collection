@@ -1,4 +1,4 @@
-# First dApp with Learn Web3 DAO
+# NFT Collection with Learn Web3 DAO
 
 Created as part of the [Learn Web3 DAO](https://www.learnweb3.io/) Freshman Tack.
 
